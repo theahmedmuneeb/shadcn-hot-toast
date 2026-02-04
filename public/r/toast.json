@@ -8,9 +8,6 @@
         "motion",
         "react-hot-toast"
     ],
-    "registryDependencies": [
-        "https://ui.shadcn.com/r/utils.json"
-    ],
     "files": [
         {
             "path": "ui/toast.tsx",
