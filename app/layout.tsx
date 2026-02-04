@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   title: "shadcn-hot-toast | Beautiful Toast Notifications",
   description:
     "Beautiful toast notifications for React with smooth animations. Built on top of react-hot-toast with Motion animations.",
+  verification: {
+    google: "V00zp8y5-5rQU-vcpL5nihZud9dnXL6xSDbwS57b02Y",
+  },
 };
 
 export default function RootLayout({
